@@ -1,0 +1,17 @@
+python-dotenv
+requests
+pyjwt
+
+psycopg2-binary
+
+#cmake
+dlib
+opencv-python
+face_recognition
+scikit-learn
+
+Flask
+Flask_Cors
+Flask-APScheduler
+Flask-SQLAlchemy
+Flask-Migrate
